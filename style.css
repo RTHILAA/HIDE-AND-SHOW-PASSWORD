@@ -34,16 +34,12 @@ input {
   border-radius: 20px;
   font-size: 16px;
   outline: none;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  -ms-border-radius: 20px;
-  -o-border-radius: 20px;
 }
 
 #slash {
     position: absolute;
     top: 33px;
-    left: 340px;
+    right: 35px;
     cursor: pointer;
     display: none;
 }
